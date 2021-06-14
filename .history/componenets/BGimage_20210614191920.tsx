@@ -1,0 +1,1 @@
+Impoer Image from 'next'
